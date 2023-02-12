@@ -1,2 +1,2 @@
 # Rust-Cheat
-Rust Cheats
+Rust Cheats join the discord to buy sources https://discord.gg/GmNSGGz9pj
